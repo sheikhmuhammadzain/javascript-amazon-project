@@ -80,7 +80,5 @@ allButtons.forEach((button) => {
 
     updateTheCart();
 
-
-
   });
 });
